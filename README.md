@@ -27,4 +27,4 @@ chosen tool  => eclipse.
   
   
   
-  ![sc1](https://github.com/davidvela/ABAP-Code-Retreat-Luzern-/blob/master/assets/SC.PNG)
+  ![sc1](https://github.com/davidvela/ABAP-Code-Retreat-Luzern-/blob/master/SC.PNG)
