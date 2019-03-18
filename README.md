@@ -25,7 +25,9 @@ chosen tool  => eclipse.
 ## Links 
    * https://www.youtube.com/watch?v=23MBR2pZoDQ
    * https://www.youtube.com/watch?v=C2vgICfQawE
-  
-  
-  
+   * https://blogs.sap.com/2017/03/24/abap-code-retreat-in-passau/
+ 
+ 
+   
   ![sc1](https://github.com/davidvela/ABAP-Code-Retreat-Luzern-/blob/master/SC.PNG)
+  ![sc2](https://github.com/davidvela/ABAP-Code-Retreat-Luzern-/blob/master/GM.PNG)
