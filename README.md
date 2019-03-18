@@ -14,12 +14,14 @@ chosen tool  => eclipse.
     * control F3            activate 
     * control shift F10     run unit test 
     * control 1             options: rename, generate methods, definitions ... 
-    * eclipse - preferences shortcuts: 
-         * Collapse all       control Shift [ 
-         * Expand all         control shift ]
-         * Collapse           control [
-         * Expand             control ] 
-         
+   
+   * eclipse - preferences shortcuts: 
+         * Collapse all             control Shift [ 
+         * Expand all               control shift ]
+         * Collapse                 control [
+         * Expand                   control ] 
+         * rectangular selection    alt + shift + a   (vscode shift alt + click) 
+         * duplicate line           control alt down   (vscode alt shift down ) 
 
 
 ## Sponsors 
