@@ -14,8 +14,7 @@ chosen tool  => eclipse.
     * control F3            activate 
     * control shift F10     run unit test 
     * control 1             options: rename, generate methods, definitions ... 
-   
-   * eclipse - preferences shortcuts: 
+    * eclipse - preferences shortcuts: 
          * Collapse all             control Shift [ 
          * Expand all               control shift ]
          * Collapse                 control [
