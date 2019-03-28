@@ -32,6 +32,7 @@ chosen tool  => eclipse.
    * https://www.youtube.com/watch?v=23MBR2pZoDQ
    * https://www.youtube.com/watch?v=C2vgICfQawE
    * https://blogs.sap.com/2017/03/24/abap-code-retreat-in-passau/
+   * https://pmav.eu/stuff/javascript-game-of-life-v3.1.1/
  
  
    
