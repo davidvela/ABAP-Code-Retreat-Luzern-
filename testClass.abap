@@ -1,4 +1,6 @@
-
+***********************************************************
+*     test class template
+***********************************************************
 
 CLASS ltcl_spplu DEFINITION FINAL FOR TESTING
   DURATION SHORT
