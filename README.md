@@ -1,13 +1,10 @@
 # ABAP Code Retreat Luzern
 16.03.2019 -- Test Driven Development - the Game of Life.
-
 Deutsch sprachen ... 
 **writing working software is not enough!**
 
 ## TDD - Test Driven Development 
-
 chosen tool  => eclipse... 
-
 ### short cuts 
     * shift F1              pretty printer 
     * control F2            checker 
@@ -21,20 +18,15 @@ chosen tool  => eclipse...
          * Expand                   control ] 
          * rectangular selection    alt + shift + a   (vscode shift alt + click) 
          * duplicate line           control alt down   (vscode alt shift down ) 
-
-
 ## Sponsors 
     * CSS https://www.css.ch/en/home.html
     * Xpresso tutorials - free access to tutorials. 
     * SAP Press - 3 voutchers 
-
 ## Links 
    * https://www.youtube.com/watch?v=23MBR2pZoDQ
    * https://www.youtube.com/watch?v=C2vgICfQawE
    * https://blogs.sap.com/2017/03/24/abap-code-retreat-in-passau/
    * https://pmav.eu/stuff/javascript-game-of-life-v3.1.1/
  
- 
-   
   ![sc1](https://github.com/davidvela/ABAP-Code-Retreat-Luzern-/blob/master/SC.PNG)
   ![sc2](https://github.com/davidvela/ABAP-Code-Retreat-Luzern-/blob/master/GM.PNG)
